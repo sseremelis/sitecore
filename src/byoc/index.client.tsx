@@ -17,7 +17,6 @@ import '@sitecore/components/form';
  * @example
  * import 'src/otherFolder/MyOtherComponent';
  */
-import './MyClientComponent';
 
 // An important boilerplate component that prevents BYOC components from being optimized away and allows then. Should be kept in this file.
 const ClientsideComponent = (props: FEAAS.ExternalComponentProps) => FEAAS.ExternalComponent(props);

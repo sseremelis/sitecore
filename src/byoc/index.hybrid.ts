@@ -6,8 +6,5 @@
  * import 'src/otherFolder/MyOtherComponent';
  */
 
-import 'src/components/MyComponentBYOC';
-import 'src/components/MyComponent';
-
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {};
